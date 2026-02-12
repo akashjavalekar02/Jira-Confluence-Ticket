@@ -1,0 +1,19 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "415f73f6-a1fc-4b14-af1f-0782cb820303",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_jiraTicketAsset": {
+            "type": "string"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}
